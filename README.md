@@ -1,5 +1,5 @@
 # learning-journal-201
-Learning Journal for 201
+Learning Journal for 201-day3
 
 Today I Learned...
 Add a new entry to your learning journal and ACP this entry to your repository.
